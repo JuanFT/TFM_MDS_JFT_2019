@@ -1,0 +1,56 @@
+ VAP:Valdepero.Val01.Ambient.Temperature	Actual ambient temperature
+ VAP:Valdepero.Val01.Ambient.WindDir	Absolute wind direction
+ VAP:Valdepero.Val01.Ambient.WindSpeed	Actual windspeed
+ VAP:Valdepero.Val01.Controller.HubTemperature	Actual Hub controller temp.
+ VAP:Valdepero.Val01.Controller.TopTemperature	Actual top controller temp.
+ VAP:Valdepero.Val01.Electrical.ActivePower	Electrical Active Power Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Electrical.CosPhi	Electrical CosPhi Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Electrical.CurrentPhase1	Electrical Current Phase1 Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Electrical.CurrentPhase2	Electrical Current Phase2 Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Electrical.CurrentPhase3	Electrical Current Phase3 Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Electrical.Frequency	Electrical Frequency Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Electrical.ReactivePower	Electrical Reactive Power Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Electrical.VoltagePhase1	Electrical Voltage Phase1 Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Electrical.VoltagePhase2	Electrical Voltage Phase2 Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Electrical.VoltagePhase3	Electrical Voltage Phase3 Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Gear.BearingTemperature	Actual gear bearing temp.
+ VAP:Valdepero.Val01.Gear.OilTemperature	Actual gear oil temp.
+ VAP:Valdepero.Val01.Generator.BearingTemperature	Actual Gen. Bearing temp.
+ VAP:Valdepero.Val01.Generator.Phase1Temperature	Actual Generator phase1 temp.
+ VAP:Valdepero.Val01.Generator.Phase2Temperature	Actual Generator phase2 temp.
+ VAP:Valdepero.Val01.Generator.Phase3Temperature	Actual Generator phase3 temp.
+ VAP:Valdepero.Val01.Generator.RPM	Actual generator rpm
+ VAP:Valdepero.Val01.Generator.SlipRingTemperature	Actual generator slipring temp.
+ VAP:Valdepero.Val01.Grid.BusbarTemperature	BusBar Temperature
+ VAP:Valdepero.Val01.Grid.CosPhi	Actual phase
+ VAP:Valdepero.Val01.Grid.CurrentPhase1	Actual grid current  phase 1
+ VAP:Valdepero.Val01.Grid.CurrentPhase2	Actual grid current  phase 2
+ VAP:Valdepero.Val01.Grid.CurrentPhase3	Actual grid current phase 3
+ VAP:Valdepero.Val01.Grid.Frequency	Actual frequency
+ VAP:Valdepero.Val01.Grid.InverterPhase1Temperature	Grid inv.  phase 1 Temp
+ VAP:Valdepero.Val01.Grid.Power	Actual power produced
+ VAP:Valdepero.Val01.Grid.ReactivePower	Actual reactive power
+ VAP:Valdepero.Val01.Grid.RotorInvPhase1Temperature	Actual temperature phase 1
+ VAP:Valdepero.Val01.Grid.RotorInvPhase2Temperature	Actual temperature phase 2
+ VAP:Valdepero.Val01.Grid.RotorInvPhase3Temperature	Actual temperature phase 3
+ VAP:Valdepero.Val01.Grid.VoltagePhase1	Actual grid voltage phase 1
+ VAP:Valdepero.Val01.Grid.VoltagePhase2	Actual grid voltage phase 2
+ VAP:Valdepero.Val01.Grid.VoltagePhase3	Actual grid voltage phase 3
+ VAP:Valdepero.Val01.HVTrafo.Phase1Temperature	Actual temperature phase 1
+ VAP:Valdepero.Val01.HVTrafo.Phase2Temperature	Actual temperature phase 2
+ VAP:Valdepero.Val01.HVTrafo.Phase3Temperature	Actual temperature phase 3
+ VAP:Valdepero.Val01.Hydraulic.OilPressure	Actual hydraulic pressure
+ VAP:Valdepero.Val01.Hydraulic.OilTemperature	Actual hydraulic oil temp.
+ VAP:Valdepero.Val01.Inverter.Temperature	Inverter Temperature Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Meteorological.Temperature	Meteorological Temperature Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Meteorological.WindDirection	Meteorological Wind Direction Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Meteorological.WindSpeed	Meteorological Wind Speed Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Nacelle.Direction	Actual direction of nacelle
+ VAP:Valdepero.Val01.Nacelle.Temperature	Actual nacelle Temp.
+ VAP:Valdepero.Val01.Rotor.BladesPitchAngle1	Rotor Blades Pitch Angle Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Rotor.HydraulicOilPressure	Rotor Hydraulic Oil Pressure Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Rotor.HydraulicOilTemperature	Rotor Hydraulic Oil Temperature Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.Rotor.RPM	Rotor RPM rpm Aero 01 VESTAS V90
+ VAP:Valdepero.Val01.RotorSystem.BladesPitchAngle	Actual pitch angle
+ VAP:Valdepero.Val01.RotorSystem.RotorRPM	Actual rotor rpm
+ VAP:Valdepero.Val01.Spinner.Temperature	Actual spinner temperature
